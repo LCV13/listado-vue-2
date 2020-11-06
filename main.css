@@ -1,0 +1,20 @@
+
+
+.tachado {
+    text-decoration: line-through;
+    color: #B8C2CC;
+    cursor: pointer;
+}
+
+ul{
+    list-style: none;
+    cursor: pointer;
+}
+
+.err{
+    color: red;
+}
+
+.vacio{
+    color: #B8C2CC;
+}
